@@ -1,0 +1,23 @@
+# Configuración y registros de la instalación privada
+.env
+.env.*
+!.env.example
+config.local.json
+ESTADO.local.md
+.private/
+secrets/
+*.pem
+*.key
+*service-account*.json
+*serviceAccount*.json
+credentials*.json
+.firebase/
+*-debug.log
+*.log
+node_modules/
+web/build/
+web/.svelte-kit/
+# Archivos auxiliares de macOS
+.DS_Store
+._*
+**/._*

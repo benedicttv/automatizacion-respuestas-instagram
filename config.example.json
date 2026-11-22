@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "mode": "private-single-account",
+  "displayName": "Mi automatizador de Instagram",
+  "firebaseProjectId": "REEMPLAZAR",
+  "region": "REEMPLAZAR_TRAS_ELEGIR_REGION",
+  "firestoreDatabaseId": "REEMPLAZAR",
+  "siteOrigin": "REEMPLAZAR_TRAS_DESPLEGAR_HOSTING",
+  "metaAppId": "REEMPLAZAR",
+  "metaFacebookConfigId": "REEMPLAZAR",
+  "metaGraphVersion": "VERIFICAR_VERSION_VIGENTE",
+  "facebookPageId": "DESCUBRIR_Y_VERIFICAR_CON_LA_API",
+  "instagramAccountId": "DESCUBRIR_Y_VERIFICAR_CON_LA_API",
+  "instagramUsername": "REEMPLAZAR",
+  "workspaceId": "mi-cuenta"
+}
